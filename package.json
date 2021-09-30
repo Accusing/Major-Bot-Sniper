@@ -1,5 +1,5 @@
 {
-  "name": "bot-sniper",
+  "name": "Major-Bot-Sniper",
   "version": "0.0.0",
   "description": "A discord selfbot for the major / seasonal bots",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Echo-BotDev/bot-sniper.git"
+    "url": "git+https://github.com/Echo-BotDev/Major-Bot-Sniper.git"
   },
   "author": "Echo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Echo-BotDev/bot-sniper/issues"
+    "url": "https://github.com/Echo-BotDev/Major-Bot-Sniper/issues"
   },
-  "homepage": "https://github.com/Echo-BotDev/bot-sniper#readme"
+  "homepage": "https://github.com/Echo-BotDev/Major-Bot-Sniper#readme"
 }
