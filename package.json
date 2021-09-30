@@ -1,0 +1,19 @@
+{
+  "name": "bot-sniper",
+  "version": "0.0.0",
+  "description": "A discord selfbot for the major / seasonal bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Echo-BotDev/bot-sniper.git"
+  },
+  "author": "Echo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Echo-BotDev/bot-sniper/issues"
+  },
+  "homepage": "https://github.com/Echo-BotDev/bot-sniper#readme"
+}
