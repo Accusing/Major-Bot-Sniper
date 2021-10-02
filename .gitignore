@@ -118,4 +118,4 @@ dist
 .pnp.*
 
 # Custom Shit
-./settings.json
+settings/*
