@@ -8,7 +8,7 @@ class Selfbot extends Client {
         super(opt);
         this.commands = new Collection()
         this.wait = util.promisify(setTimeout)
-        this.config = require('../settings.json')
+        this.config = require('../settings/settings.json')
         this.dankMemerFarm = this.config.dankMemerFarmer
         this.rpgFarm = this.config.rpgBotFarmer
         this.halloFarm = this.config.seasonal.halloween

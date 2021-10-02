@@ -1,5 +1,5 @@
 const Bot = require('./base/Selfbot');
-const config = require('./settings.json')
+const config = require('./settings/settings.json')
 const client = new Bot({ disabledEvents: config.disabledEvents, disableEveryone: true })
 
 const readdir = require("util").promisify(require("fs").readdir);
